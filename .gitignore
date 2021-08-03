@@ -1,7 +1,5 @@
-# no .log files
+# no .log and .db files
 *.log
-
-# no .db files
 *.db
 
 # ignore all files in target/ and bin/ dirs
